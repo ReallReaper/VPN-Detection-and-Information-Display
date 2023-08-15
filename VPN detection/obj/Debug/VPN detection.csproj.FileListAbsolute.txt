@@ -1,0 +1,29 @@
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\VPN detection.exe.config
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\VPN detection.exe
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\VPN detection.pdb
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hamster\source\repos\VPN detection\VPN detection\obj\Debug\VPN detection.csproj.AssemblyReference.cache
+C:\Users\hamster\source\repos\VPN detection\VPN detection\obj\Debug\VPN detection.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamster\source\repos\VPN detection\VPN detection\obj\Debug\VPN detection.csproj.CoreCompileInputs.cache
+C:\Users\hamster\source\repos\VPN detection\VPN detection\obj\Debug\VPN detection.csproj.CopyComplete
+C:\Users\hamster\source\repos\VPN detection\VPN detection\obj\Debug\VPN detection.exe
+C:\Users\hamster\source\repos\VPN detection\VPN detection\obj\Debug\VPN detection.pdb
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Buffers.dll
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Memory.dll
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Text.Json.dll
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.ValueTuple.dll
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Buffers.xml
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Memory.xml
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.Text.Json.xml
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\System.ValueTuple.xml
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hamster\source\repos\VPN detection\VPN detection\bin\Debug\Newtonsoft.Json.xml
